@@ -21,35 +21,35 @@ Evaluation
 Contributing
 License
 Features
-# Flexible Architecture: 
+Flexible Architecture: 
 The Artificial Neural Network model is highly flexible and can be adapted to various problem domains.
 
-# Deep Learning Capabilities: 
+ Deep Learning Capabilities: 
 Utilize the power of deep learning to handle complex patterns and large datasets.
 
-# Model Visualization:
+ Model Visualization:
 Gain insights into the model's architecture and parameters through visual representations.
 
-# Model Saving/Loading:
+Model Saving/Loading:
 Save trained models and load them for future use or deployment.
 
-# Customization: 
+Customization: 
 Easily modify hyperparameters and network structure to fine-tune performance.
 
 ### Getting Started
 ### Prerequisites
 Before running the ANN model, you'll need the following:
 
-# Python:
+ Python:
 Install Python on your machine.
 
-# NumPy: 
+NumPy: 
 Install NumPy for numerical computations.
 
-# TensorFlow:
+TensorFlow:
 Install TensorFlow for building and training neural networks.
 
-# Scikit-learn: 
+Scikit-learn: 
 Install Scikit-learn for data preprocessing and evaluation.
 
 ### Installation
